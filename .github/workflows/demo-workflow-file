@@ -1,7 +1,5 @@
 on: workflow_dispatch
-
 jobs:
-  build:
   name: Demo
   runs-on: ubuntu-latest
   steps:
